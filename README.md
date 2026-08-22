@@ -80,8 +80,8 @@ int main() {
 }
 ```
 # OUTPUT:
-<img width="501" height="454" alt="image" src="https://github.com/user-attachments/assets/522444f0-25fc-474b-996c-f83e57a23657" />
-<img width="529" height="449" alt="image" src="https://github.com/user-attachments/assets/605ebeee-4f12-4d5b-af2b-1938ef55b1b9" />
+<img width="806" height="502" alt="img 1 exp 1 CD" src="https://github.com/user-attachments/assets/a2e1f8bf-613f-429d-aeea-ecc1e80e6000" />
+<img width="736" height="482" alt="image 2 devcpp CD" src="https://github.com/user-attachments/assets/9da22e78-92c1-4787-9f16-dfe167039064" />
 
 
 
